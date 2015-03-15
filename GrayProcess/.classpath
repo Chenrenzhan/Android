@@ -5,5 +5,7 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk_1.7"/>
+	<classpathentry kind="lib" path="F:/eclipse-WorkPlace/openCV-sdk/java/bin/opencv library - 2.4.9.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
